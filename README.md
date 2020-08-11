@@ -29,6 +29,5 @@
 
 **Some of my projects**
 
-Web:
-[☎Website](davenyen.github.io), 
+Web: 
 [😜Meme Generator](davenyen.github.io)
