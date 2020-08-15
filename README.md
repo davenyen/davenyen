@@ -32,4 +32,4 @@
 **Some of my projects**
 
 Web: 
-[😜Meme Generator](https://davenyen.github.io/Project1-Meme-Generator/)
+[😜Meme Generator](https://davenyen.github.io/Project1-Meme-Generator/), [🃏Hearthstone Searcher](https://davenyen.github.io/Project2-Hearthstone/)
