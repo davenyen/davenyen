@@ -1,6 +1,6 @@
 **Hi, I'm David**
 
--   :mortar_board: Computer Science Major UNSW - Sydney
+-   :mortar_board: Software Engineering Major UNSW - Sydney
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidnguyen4898@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidnguyen4898/)
@@ -33,6 +33,4 @@
 
 Web: 
 [🍔Recipes App](https://davenyen.github.io/RecipeApp/)
-<!---
 [😜Meme Generator](https://davenyen.github.io/Project1-Meme-Generator/), [🃏Hearthstone Searcher](https://davenyen.github.io/Project2-Hearthstone/)
--->
