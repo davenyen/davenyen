@@ -33,4 +33,3 @@
 
 Web: 
 [🍔Recipes App](https://davenyen.github.io/RecipeApp/)
-[😜Meme Generator](https://davenyen.github.io/Project1-Meme-Generator/), [🃏Hearthstone Searcher](https://davenyen.github.io/Project2-Hearthstone/)
